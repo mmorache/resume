@@ -1,11 +1,7 @@
 ---
 layout: default
-title: Mathias MH Morache - Resume
+title: Mathias MH Morache
 ---
-
-# Mathias MH Morache
-
-**Data-Driven Software Developer specializing in AWS cloud solutions**  
 
 ### Contact Information
 - **Email:** [mmorache.dev@gmail.com](mailto:mmorache.dev@gmail.com)  
