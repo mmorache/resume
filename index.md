@@ -101,7 +101,7 @@ title: Mathias MH Morache
 ## Education
 
 - **Eastern University — M.S. in Data Science**  
-  *St. Davids, PA · Coursework Completion: February 2025 · Graduation: May 2025 · GPA: 3.9*
+  *St. Davids, PA · Graduation: May 2025 · GPA: 3.9*
 - **Auburn University — B.S. in Computer Science**  
   *Auburn, AL · Graduated 2020 · GPA: 4.0*
 - **Boise State University — B.A. in English (Writing Emphasis)**  
