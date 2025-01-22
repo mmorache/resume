@@ -12,8 +12,8 @@ title: Mathias MH Morache
 ---
 
 ## Skills
-**Primary Languages:** Python · Node.js  
-**Secondary Languages:** Go · R · Java · C#  
+**Primary Languages:** Python · R 
+**Secondary Languages:** Go · Node.js · Swift · C#  
 **Operating Systems:** Linux (Debian, Red Hat, CentOS, Amazon Linux) · MacOS  
 **Technologies:** Pandas · Django · Git · Ansible · Docker · RESTful APIs / Postman · Jinja2  
 **AWS Services:** Glue · Athena · QuickSight · CloudFormation / CDK · DynamoDB · S3 · Lambda / Step Functions  
