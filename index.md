@@ -26,12 +26,12 @@ title: Mathias MH Morache
 ### **Boise State University**
 
 #### **Senior Software Developer & Cloud Solutions Architect**
-*2023 - present · Boise, ID · University Advancement / Boise State Foundation*
+*2023 - present · Boise, ID · University Advancement / Boise State University Foundation*
 
 ##### Campaign Dashboards: Cloud-Based ETL Pipeline:
 - **Modern Data Architecture:** Designed and implemented a modular full-stack ETL pipeline on AWS to transform raw campaign data from Blackbaud Raiser's Edge into actionable insights. Leveraged Python, Pandas, Parquet, S3, Glue, Athena, and QuickSight to create interactive dashboards that empower data-driven decision-making.  
 - **Comprehensive Leadership:** Single-handedly led all technical aspects of the project, including gathering stakeholder requirements and translating them into actionable development tasks (Technical Project Manager/Product Owner), designing a cost-effective and maintainable cloud architecture (Solutions Architect), writing clean, efficient code (Developer), creating user-friendly dashboards (UI/UX Design), defining key performance indicators (Analyst), and producing clear, extensive documentation to support ongoing maintainability (Technical Writer).
-- **Machine Learning Potential:** Using the data lake, built predictive models to identify key factors influencing donations, showcasing how advanced analytics and machine learning techniques can uncover actionable insights and support data-driven decision-making.
+- **Machine Learning Models:** Using Meta's *Prophet* for time series forecasting, built predictive models to determine productivity projections, showcasing how advanced analytics and machine learning techniques can uncover actionable insights and support data-driven decision-making.
 - **Impactful Results:** Received enthusiastic reception from the Foundation, university stakeholders, and AWS representatives. Success spurred increased demand for additional data visualization initiatives.
 
 ##### MANElink: Foundation Intranet
