@@ -29,7 +29,7 @@ title: Mathias MH Morache
 *2023 - present · Boise, ID · University Advancement / Boise State Foundation*
 
 ##### Campaign Dashboards: Cloud-Based ETL Pipeline:
-- **Modern Data Architecture:** Designed and implemented a modular ETL pipeline on AWS to transform raw campaign data from Blackbaud Raiser's Edge into actionable insights. Leveraged Python, Pandas, Parquet, S3, Glue, Athena, and QuickSight to create interactive dashboards that empower data-driven decision-making.  
+- **Modern Data Architecture:** Designed and implemented a modular full-stack ETL pipeline on AWS to transform raw campaign data from Blackbaud Raiser's Edge into actionable insights. Leveraged Python, Pandas, Parquet, S3, Glue, Athena, and QuickSight to create interactive dashboards that empower data-driven decision-making.  
 - **Comprehensive Leadership:** Single-handedly led all technical aspects of the project, including gathering stakeholder requirements and translating them into actionable development tasks (Technical Project Manager/Product Owner), designing a cost-effective and maintainable cloud architecture (Solutions Architect), writing clean, efficient code (Developer), creating user-friendly dashboards (UI/UX Design), defining key performance indicators (Analyst), and producing clear, extensive documentation to support ongoing maintainability (Technical Writer).
 - **Machine Learning Potential:** Using the data lake, built predictive models to identify key factors influencing donations, showcasing how advanced analytics and machine learning techniques can uncover actionable insights and support data-driven decision-making.
 - **Impactful Results:** Received enthusiastic reception from the Foundation, university stakeholders, and AWS representatives. Success spurred increased demand for additional data visualization initiatives.
@@ -101,7 +101,7 @@ title: Mathias MH Morache
 ## Education
 
 - **Eastern University — M.S. in Data Science**  
-  *St. Davids, PA · Graduation: May 2025 · GPA: 3.9*
+  *St. Davids, PA · Graduated 2025 · GPA: 3.9*
 - **Auburn University — B.S. in Computer Science**  
   *Auburn, AL · Graduated 2020 · GPA: 4.0*
 - **Boise State University — B.A. in English (Writing Emphasis)**  
