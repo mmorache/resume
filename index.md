@@ -100,11 +100,13 @@ title: Mathias MH Morache
 
 ## Education
 
+- **Louisiana State University Shreveport — M.B.A., Analytics Concentration**  
+  *Shreveport, LA · Projected Graduation in 2026 · GPA: 4.0*
 - **Eastern University — M.S. in Data Science**  
   *St. Davids, PA · Graduated 2025 · GPA: 3.9*
 - **Auburn University — B.S. in Computer Science**  
   *Auburn, AL · Graduated 2020 · GPA: 4.0*
-- **Boise State University — B.A. in English (Writing Emphasis)**  
+- **Boise State University — B.A. in English, Writing Emphasis**  
   *Boise, ID · Graduated 2008 · GPA: 3.4*
 
 ---
